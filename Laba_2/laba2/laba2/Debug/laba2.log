@@ -1,0 +1,5 @@
+﻿  Lab_2.cpp
+c:\users\оленька\desktop\новая папка\laba_2\laba2\laba2\helputils.h(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\оленька\desktop\новая папка\laba_2\laba2\laba2\helputils.h(105): warning C4715: GetValueOfStr: значение возвращается не при всех путях выполнения
+  laba2.vcxproj -> C:\Users\Оленька\Desktop\Новая папка\Laba_2\laba2\Debug\laba2.exe
+  laba2.vcxproj -> C:\Users\Оленька\Desktop\Новая папка\Laba_2\laba2\Debug\laba2.pdb (Partial PDB)
